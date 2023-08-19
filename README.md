@@ -8,7 +8,9 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
+### Fluxo de Atendimento chatbot
+
+<img src="/images/Fluxo-ChatBot.jpg">
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
