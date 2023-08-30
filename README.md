@@ -1,22 +1,12 @@
 # Chatbot Prefeitura do Rio de Janeiro
 
-Um parágrafo da descrição do projeto vai aqui
+Porjeto desenvolvido para acesso a informações e serviços extraido do site da Prefeitura do Rio de Janeiro, com mais rapidez direcionando o cliente direto para o que necessita.
 
 ## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### Fluxo de Atendimento chatbot
 
 <img src="/images/Fluxo-ChatBot.jpg">
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
