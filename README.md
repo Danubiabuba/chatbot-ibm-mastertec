@@ -1,6 +1,6 @@
 # Chatbot Prefeitura do Rio de Janeiro
 
-Porjeto desenvolvido para acesso a informações e serviços extraido do site da Prefeitura do Rio de Janeiro, com mais rapidez direcionando o cliente direto para o que necessita.
+Pojeto desenvolvido para acesso a informações e serviços extraido do site da Prefeitura do Rio de Janeiro, com mais rapidez direcionando o cliente direto para o que ele necessita.
 
 ## 🚀 Começando
 
