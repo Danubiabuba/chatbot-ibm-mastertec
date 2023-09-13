@@ -9,83 +9,65 @@ Pojeto desenvolvido para acesso a informações e serviços extraido do site da 
 <img src="/images/Fluxo-ChatBot.jpg">
 
 ### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
 Diga como essa etapa será:
+Criamos uma conta no Blip, iniciando com uma empresa ficticia, para dar inicio ao projeto, escolhemos como tema para o trabalho, Prefeitura do Rio de Janeiro.
+Desenvolvemos um chatbot, atraves da plataforma Blip, para criarmos chatbot temos que usar a logica em todo o trabalho para s ligacões dos blocos.
+Blip e uma ferramenta bem tranquila, especifica para quem quer fazer chatbot sem introduzir muito codigo.
+Desenvolvendo esse chatbot em equipe ele te proporciona essa opção.
+passamos pelos testes e configuração do projeto, atenda a coerência entre os blocos. 
+Sempre publicando e testando o trabalho, publicando para salvar sempre a estapa anterior, e testando para ver possiveis erros.
 
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
 ## ⚙️ Executando os testes
 
 Explicar como executar os testes automatizados para este sistema.
-
+A plataforma oferece teste para todo o processo. 
+teste de fluxo em produção
+teste de fluxo publicado
 ### 🔩 Analise os testes de ponta a ponta
 
-Explique que eles verificam esses testes e porquê.
+Deixo o link para que vocês testem o nosso projeto.
+link site:
+https://danubia-alves-de-souza-silva-1mbhw.chat.blip.ai/?appKey=cHJlZmVpdHVyYWRvcmlvZGVqYW5laXJvOmVhNDU0NGU2LTM1MWEtNGQ2ZC04OGEwLWU5MGRmNDIxYjdiOA== 
 
-```
-Dar exemplos
-```
+link telegram:
+
+
+
+
+
 
 ### ⌨️ E testes de estilo de codificação
 
-Explique que eles verificam esses testes e porquê.
+<img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\fluxo-chatbot-2.JPG">
 
-```
-Dar exemplos
-```
+
+<img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\Opção-ofertada parateste.png">
+
+
+<img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\Teste-Chatbot.png">
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+A plataforma te oferta opções de vincular o chatbot a plataformas como Telegram, Whatsapp, e-mail, Mensseger, Instragram e varios outros.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+* https://account.blip.ai/login- O framework web usado
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Desenvolvedores** - *Trabalho Inicial* -(https://github.com/Luciane-Weber)
+(https://github.com/danubiabuba) (https://github.com/)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
+** Agradeço a todos pelo comprometimento e garra para desnvolvimento deste projeto.
+sem voçes não seria possivel entregar esse trabalho.
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Danubia Alves](https://gist.github.com/danubiabuba) 😊
