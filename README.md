@@ -39,7 +39,7 @@ link telegram:
 
 ### ⌨️ E testes de estilo de codificação
 
-<img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\fluxo-chatbot-2.JPG">
+<img src="/images/fluxo-chatbot-2.JPG">
 
 
 <img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\Opção-ofertada parateste.png">
