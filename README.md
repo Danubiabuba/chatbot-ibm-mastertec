@@ -31,21 +31,17 @@ link site:
 https://danubia-alves-de-souza-silva-1mbhw.chat.blip.ai/?appKey=cHJlZmVpdHVyYWRvcmlvZGVqYW5laXJvOmVhNDU0NGU2LTM1MWEtNGQ2ZC04OGEwLWU5MGRmNDIxYjdiOA== 
 
 link telegram:
-
-
-
-
-
+http://t.me/Izasuabot
 
 ### ⌨️ E testes de estilo de codificação
 
 <img src="/images/fluxo-chatbot-2.JPG">
 
 
-<img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\Opção-ofertada parateste.png">
+<img src="/imagesOpção-ofertada parateste.png">
 
 
-<img src="/images/C:\Users\Danubia\Projetos\chatbot-ibm-mastertec\images\Teste-Chatbot.png">
+<img src="/images\Teste-Chatbot.png">
 
 ## 📦 Implantação
 
@@ -59,11 +55,7 @@ A plataforma te oferta opções de vincular o chatbot a plataformas como Telegra
 ## ✒️ Autores
 
 * **Desenvolvedores** - *Trabalho Inicial* -(https://github.com/Luciane-Weber)
-(https://github.com/danubiabuba) (https://github.com/)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-
+(https://github.com/danubiabuba) (https://github.com/Suzirss)
 ## 🎁 Expressões de gratidão
 
 ** Agradeço a todos pelo comprometimento e garra para desnvolvimento deste projeto.
